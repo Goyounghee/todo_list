@@ -25,7 +25,6 @@
 .Primary-button {
     background-color: var(--apple-blue);
     color: var(--apple-bg-white);
-
     border-radius: 1000px;
     border: none;
 }

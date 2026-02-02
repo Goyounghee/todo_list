@@ -1,0 +1,26 @@
+:root {
+  /* 배경 및 텍스트 */
+  --apple-bg-gray: #F5F5F7;
+  --apple-bg-white: #FFFFFF;
+  --apple-text-main: #1D1D1F;
+  --apple-text-sub: #86868B;
+
+  /* 포인트 컬러 */
+  --apple-blue: #0071E3;
+  --apple-blue-hover: #0077ED;
+
+  /* 시스템 컬러 */
+  --apple-red: #FF3B30;
+  --apple-green: #34C759;
+  
+  /* 폰트 (Apple 스타일) */
+  --apple-font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.Primary-button {
+    background-color: var(--apple-blue);
+    color: var(--apple-bg-white);
+}
+.Primary-button:hover {
+    background-color: var(--apple-blue-hover);
+}

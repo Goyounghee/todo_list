@@ -37,4 +37,5 @@
     color: var(--apple-blue);
 
     border-color: var(--apple-blue);
+    border-radius: 1000px;
 }
